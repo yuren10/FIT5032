@@ -1,0 +1,375 @@
+[Summer Zhu] 13:40:22
+And the year… sorry, and the quarter on the x-axis. Okay, so I'm up with some developer steps in there.
+
+[Summer Zhu] 13:40:29
+To make sure that I've… actually looking into the colours of the bar chart.
+
+[Summer Zhu] 13:40:36
+And the year… So, basically, we can maybe make it blue… maybe you make over 4 years?
+
+[Summer Zhu] 13:40:48
+As well. Okay, that's a… that's a good… All right. Yeah.
+
+[Summer Zhu] 13:40:51
+Well, let's have a, um… walk away, and let me just… I'll get back to you maybe in two hours. Let me just say this is feasible.
+
+[Summer Zhu] 13:40:59
+Alright, let's have a look at as feasible. Yeah. If it is feasible, should we pair program this? Excellent.
+
+[Summer Zhu] 13:41:04
+All right. Let's handshake on this requirement. All right. Yep, good. Then I'll check back into two more hours. Alright. Yeah.
+
+[Summer Zhu] 13:41:11
+So that was just… That's what we do. So… mind my typing.
+
+[Summer Zhu] 13:41:15
+Um, but that's the conversation that took how long? About 5 to 10 minutes.
+
+[Summer Zhu] 13:41:21
+That's the conversation that you need to have. With your team. It's really important.
+
+[Summer Zhu] 13:41:26
+If you don't, what will happen? Is that… I will go deliver assumptions based on what I think is best.
+
+[Summer Zhu] 13:41:36
+And I haven't spoken to the end of the team, because I'm the best developer ever. Yeah, and I'll just… I know what I'm going to develop.
+
+[Summer Zhu] 13:41:42
+I know what I think everybody needs, and, um, I'll just develop what I think everybody needs.
+
+[Summer Zhu] 13:41:48
+Therefore… Therefore, there's no trust between Pete and I. Therefore, our communication will break down.
+
+[Summer Zhu] 13:41:55
+But if we did this, and we put the pictures of the diagrams, no matter how bad they are.
+
+[Summer Zhu] 13:42:00
+You attach them to your LeanKit card, you put the acceptance criteria.
+
+[Summer Zhu] 13:42:04
+There's a much better chance that what's going to be developed is what everybody discussed.
+
+[Summer Zhu] 13:42:09
+And then I'm going to write in a comment in here, so I go at… Peter… Brown, I… We'll… I will… uh, update… AC card, sorry, update… AC card.
+
+[Summer Zhu] 13:42:34
+So while Sam's doing that… Within 2 hours. I was just to say before Tuesday?
+
+[Summer Zhu] 13:42:39
+We don't want you to start any development. However, what I would love to see.
+
+[Summer Zhu] 13:42:45
+Is when we open up your LeanKit, after you've done your A&D presentation.
+
+[Summer Zhu] 13:42:50
+We see a whole lot of really well… well-fleshed-out LeanKit cards for epics and user stories.
+
+[Summer Zhu] 13:42:56
+That have acceptance criteria, that have… Nice little diagrammatic… I mean, don't have to be beautiful.
+
+[Summer Zhu] 13:43:03
+But just diagrams of what's going to be developed. Even some prototypes. If people want to get really carried away, you can get onto Balsamic, or what are the other ones, I'm trying to remember.
+
+[Summer Zhu] 13:43:13
+I always forget. The other prototyping tools. Now, with my friend Z? Are you here?
+
+[Summer Zhu] 13:43:22
+No, no, okay. Um, I had a couple of people who'd… done development, and I was just gonna bounce off them to see whether that.
+
+[Summer Zhu] 13:43:32
+Is what people did in their development shops. When you… people who've done some agile development.
+
+[Summer Zhu] 13:43:38
+Did you do something like this? Yes, you can say no if you don't want… Of the pair programming, I'm assuming, as well?
+
+[Summer Zhu] 13:43:47
+Yeah? Yeah. Good. Yeah. And look, this is, to be honest, this is much more fun if you do it this way.
+
+[Summer Zhu] 13:43:53
+Yeah. And get everybody involved, keep everybody involved. And that way, you won't have communication breakdowns.
+
+[Summer Zhu] 13:44:01
+You can create some tasks in there, so between Pete and I, we know what we're doing. So we just say… you can have.
+
+[Summer Zhu] 13:44:05
+Play around with this, but just for Tuesday, we just need to see your lotus… your blink kit.
+
+[Summer Zhu] 13:44:10
+Blossom with epics, user stories, which were provided for you. But what you need to come up with is the AC card.
+
+[Summer Zhu] 13:44:16
+With lots of prototyping in there. Um, lots of attachments in there, and some tasks, just so we're getting you into the best practice.
+
+[Summer Zhu] 13:44:23
+For use of LeanKit. Any questions?
+
+[Summer Zhu] 13:44:34
+We're looking for a specific format of acceptance criteria. I mean, you can Google it.
+
+[Summer Zhu] 13:44:39
+But the… what we're looking for is the… When?
+
+[Summer Zhu] 13:44:45
+Then, and what format, okay? Look, there are many examples, um, regarding expense criteria.
+
+[Summer Zhu] 13:44:55
+Uh, but if you can just follow, for best practice, what we do in the industry, but I know there are many other ways of doing it.
+
+[Summer Zhu] 13:45:01
+But it's probably good best practice that you all as a team can do it.
+
+[Summer Zhu] 13:45:06
+Given when and then. Um, it's just so… it's just easy as a common language.
+
+[Summer Zhu] 13:45:12
+When you have that narrative between you and your team, so you're all in the same conversation style as well.
+
+[Summer Zhu] 13:45:18
+It's really important that you all have the same language, you're all talking the same language as well.
+
+[Summer Zhu] 13:45:22
+I highly recommend you all have a team social activity, then you get to know each other's learning styles.
+
+[Summer Zhu] 13:45:28
+Um, and the way we also communicate with each other. So, for the purpose of onboarding, again, on Tuesday.
+
+[Summer Zhu] 13:45:37
+It's really important that you have your link kit as complete as possible.
+
+[Summer Zhu] 13:45:42
+That's okay, in your class on Tuesday, your mentors will give you feedback on how to improve.
+
+[Summer Zhu] 13:45:48
+And you'll have some chance to also improve on that. Don't… do not, uh, remove or archive these onboarding, um.
+
+[Summer Zhu] 13:45:57
+Cards, because these cards are your template and example, when you actually get your real project as well.
+
+[Summer Zhu] 13:46:06
+So, there is an archive, um, lane that you can create, so please make sure that you save these cards, and you can move it.
+
+[Summer Zhu] 13:46:15
+To that lane, so when you… when you want to… when you forget how to write good epics user stories, and AC cards.
+
+[Summer Zhu] 13:46:20
+At least you have an example in your link here. Yeah. Yeah. There are some other… we've only got 5 minutes. People often ask, can I delete cards in… LaneKit? And the answer is no.
+
+[Summer Zhu] 13:46:32
+But what we generally ask you to do is. Archive ones that are no longer current. Correct.
+
+[Summer Zhu] 13:46:39
+There is lots of cool, um… I would say analysis and bar charts would link it.
+
+[Summer Zhu] 13:46:46
+Analytics. Um, what we can do here, when it gets a little bit more, you know, um, into it… When you get a few more cards there. Cards. There's this lovely bar chart that says Assigned Users.
+
+[Summer Zhu] 13:46:57
+And basically, you will have, um, your name. Now. What we're trying to say here, it's all about quality than quantity. It doesn't mean if you have 5,000 cars, you're doing the most work.
+
+[Summer Zhu] 13:47:08
+So what you'll find, and as we go into the project.
+
+[Summer Zhu] 13:47:12
+Your mentors know, actually, how to get a whole lot of.
+
+[Summer Zhu] 13:47:15
+Data and statistics about what's happening in your project from. Lean Kit, have a play around with it yourself.
+
+[Summer Zhu] 13:47:21
+But as soon as your mentor looks at LeanKit, you'll probably find out anyway, because they'll do it.
+
+[Summer Zhu] 13:47:26
+They'll look at assigned tasks, they'll look at. Who's completing tasks, they're looking at overdue tasks.
+
+[Summer Zhu] 13:47:32
+There's a lot of metrics you can get from LeanKit, which will help you as a team… Correct. …to run your project.
+
+[Summer Zhu] 13:47:37
+So, a few things that you must have is assigned members. Maybe for the EPIC, have everyone assigned in your team.
+
+[Summer Zhu] 13:47:43
+Then for the user story, you probably… so make sure you put here, assign members, just… a sign. You can just do at, and your team member should be there.
+
+[Summer Zhu] 13:47:52
+What's the start date? When does the epic start, and when are you actually… the end date is when you're actually.
+
+[Summer Zhu] 13:47:57
+The week three, basically, when it's actually the build is due. To put that as the end date.
+
+[Summer Zhu] 13:48:02
+User stories, when you start designing it. And then you move it to… from to-do to Done when you've implemented it.
+
+[Summer Zhu] 13:48:09
+Okay? So you can put the start date of when you've built.
+
+[Summer Zhu] 13:48:12
+And then the end date of when you've completed it. Ac cart is basically when you start the date.
+
+[Summer Zhu] 13:48:19
+Is when you started developing. And the end day is when you've completed developing.
+
+[Summer Zhu] 13:48:26
+The signed member for the AC card is usually the developers.
+
+[Summer Zhu] 13:48:32
+Now, there is a data management plan and a security plan.
+
+[Summer Zhu] 13:48:36
+Um, that's actually required moving forward from week 4 onwards. Purposeful onboarding, if you want to have a go at it, all the guidelines is in the PGP, but don't feel obligated that you have to.
+
+[Summer Zhu] 13:48:49
+Okay? We are very wary of time, we only have one week.
+
+[Summer Zhu] 13:48:53
+So, if you'd like to push yourself. Feel free to have a tempt, and maybe all the work that you have done, it gets recorded here.
+
+[Summer Zhu] 13:49:01
+So, if Pete says, oh, I have done 60 hours of work.
+
+[Summer Zhu] 13:49:06
+Um, I've been, you know, for the week, and if your link, it says no cards assigned.
+
+[Summer Zhu] 13:49:12
+Well, no, no, Pete, you haven't done any work. Yeah. Works in the industry, because each card equals money in the industry.
+
+[Summer Zhu] 13:49:20
+There's time and effort which equals money. So each card is effort?
+
+[Summer Zhu] 13:49:24
+And we'll get to use the story points a little bit later.
+
+[Summer Zhu] 13:49:27
+But each card is worth… Later of the semester, not later today. Sorry, not today.
+
+[Summer Zhu] 13:49:31
+So it's really important, we must assign members. Yeah? And when you… in your tasks, you can assign tasks… your name to that task as well.
+
+[Summer Zhu] 13:49:39
+So, when it comes to your stand-ups, which we'll get through in the next, um, seminar.
+
+[Summer Zhu] 13:49:45
+You… when you do stand-up, you can just basically filter your name here.
+
+[Summer Zhu] 13:49:51
+And you can talk about… where you're at. What you've got to do. This card, yeah? All good?
+
+[Summer Zhu] 13:49:57
+So that's one way. Any other questions. While you're thinking about a question?
+
+[Summer Zhu] 13:50:03
+One thing I said to my studio. Was.
+
+[Summer Zhu] 13:50:08
+Your onboarding project's not marked. Your presentation on Tuesday is not marked.
+
+[Summer Zhu] 13:50:16
+Later in the semester, in both 5.122. And 5120, you will be doing presentations, which are marked.
+
+[Summer Zhu] 13:50:25
+Last week, we gave you a lot of pre-reading about presentations.
+
+[Summer Zhu] 13:50:31
+So please use this presentation. Just because it's not marked.
+
+[Summer Zhu] 13:50:36
+Doesn't mean you shouldn't take it seriously. If you make a mistake, or… You're not doing presentations well, or you haven't learned.
+
+[Summer Zhu] 13:50:45
+I would learn it, or practice it in your onboarding presentation.
+
+[Summer Zhu] 13:50:50
+And that way, you'll get some feedback. You'll be able to improve, so when you get to the presentations that are marked.
+
+[Summer Zhu] 13:50:57
+You will be able to do much better. What's one of the key things you have to do if you have a team presentation?
+
+[Summer Zhu] 13:51:08
+Anybody remember from 5122?
+
+[Summer Zhu] 13:51:13
+Nobody? You have to do a rehearsal. Everybody has to know who's talking to what slide, you have to know who's saying what.
+
+[Summer Zhu] 13:51:24
+Now, what if Sam and I had done this lecture? We wrote an AI query that said.
+
+[Summer Zhu] 13:51:31
+Give me a lecture on… lean kit, and… doing acceptance criteria.
+
+[Summer Zhu] 13:51:39
+And instead of doing what we've done. Drawing things as the board, I just sat here.
+
+[Summer Zhu] 13:51:45
+And I read the script that AI gave me while I'm looking at my phone.
+
+[Summer Zhu] 13:51:50
+Would that be a presentation? Would that be a lecture? No, it's not.
+
+[Summer Zhu] 13:51:55
+So, I know people are scared and worried about. Doing presentations.
+
+[Summer Zhu] 13:52:02
+Supposedly, some people fear. Talking in public more than death?
+
+[Summer Zhu] 13:52:09
+So… so we understand that you're all nervous, and you may not be used to this sort of thing.
+
+[Summer Zhu] 13:52:14
+The only way you're gonna get better at it is by doing it.
+
+[Summer Zhu] 13:52:18
+And this is a safe place, particularly the onboarding is safe. It's not marked.
+
+[Summer Zhu] 13:52:23
+So it's a chance for you to roll up your sleeves and try this stuff?
+
+[Summer Zhu] 13:52:27
+But certainly in my studio, if I see anybody. Doing that reading from their phones, an AI script.
+
+[Summer Zhu] 13:52:33
+I will tell them to put their phone down immediately. And do it without anything.
+
+[Summer Zhu] 13:52:40
+Read the 5122 guidelines on how to do good presentations. Reed it as a team on how to do good team presentations. From week four onwards, we will be grading your iteration proposal presentation.
+
+[Summer Zhu] 13:52:53
+So, Sea Tuesday is a bit of a trial and error.
+
+[Summer Zhu] 13:52:56
+If you are interested in what we are marking, as Pete said, we are actually marking on your presentation skills and teamwork.
+
+[Summer Zhu] 13:53:04
+When you do your peer review, we actually are peer reviewing on this aspect as well.
+
+[Summer Zhu] 13:53:09
+So, just a quick recap, what's due on Tuesday? Um, by Tuesday, um, is your onboarding presentation.
+
+[Summer Zhu] 13:53:17
+Uh, which is basically your guidelines here, if you can go into Moodle.
+
+[Summer Zhu] 13:53:21
+So it's called iteration Proposal Organization Guidelines. It will tell you what you need to put in the PowerPoint, and who will be presenting it.
+
+[Summer Zhu] 13:53:28
+You also want to do is your A&D report. But 99% has been done, and given it to you.
+
+[Summer Zhu] 13:53:35
+And what that 1% is missing is the linkage with your acceptance criteria card.
+
+[Summer Zhu] 13:53:39
+If you can have your project governance folder as much as you can, put all your upload or your templates, team meeting templates.
+
+[Summer Zhu] 13:53:46
+Artifacts in there. Um, you have a Go Data Management Plan.
+
+[Summer Zhu] 13:53:49
+But just have a go, don't worry, it's okay. You'll be well supported on Tuesday's class as well, with lots and lots of feedback.
+
+[Summer Zhu] 13:53:57
+Thank you all for attending. Sorry for the technicality issue, and also the fire drill. Any questions? We hope that… Those of you who've got afternoon studios.
+
+[Summer Zhu] 13:54:06
+Can do them. We hope the Woodside building hasn't burnt down.
+
+[Summer Zhu] 13:54:09
+I mean, you can go back in there. Thank you all
+
