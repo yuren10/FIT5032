@@ -6,6 +6,7 @@ const VALID_PASSWORD = 'Library@123'
 
 export const isAuthenticated = ref(false)
 export const currentUser = ref(null)
+export const userRole = ref(null) // 'admin' | 'librarian' | 'member' | 'guest'
 export const registeredUsers = ref([]) // { username, password }
 
 export function registerUser(user) {
@@ -26,6 +27,7 @@ export function login(username, password) {
   if (username === VALID_USERNAME && password === VALID_PASSWORD) {
     isAuthenticated.value = true
     currentUser.value = { username }
+    userRole.value = 'member'
     return true
   }
   // any registered account from the form
@@ -35,14 +37,38 @@ export function login(username, password) {
   if (match) {
     isAuthenticated.value = true
     currentUser.value = { username: match.username }
+    userRole.value = 'member'
     return true
   }
   isAuthenticated.value = false
   currentUser.value = null
+  userRole.value = null
   return false
 }
 
 export function logout() {
   isAuthenticated.value = false
   currentUser.value = null
+  userRole.value = null
+}
+
+// Minimal helpers for roles
+export function hasRole(role) {
+  return userRole.value === role
+}
+
+// Map email to a role in a very simple way for demo:
+// admin@* => admin, librarian@* => librarian, member@* => member, otherwise guest
+export function setFirebaseUserByEmail(email) {
+  if (!email) return
+  const username = email.split('@')[0]
+  const localPart = username.toLowerCase()
+  let role = 'guest'
+  if (localPart.startsWith('admin')) role = 'admin'
+  else if (localPart.startsWith('librarian')) role = 'librarian'
+  else if (localPart.startsWith('member')) role = 'member'
+
+  isAuthenticated.value = true
+  currentUser.value = { username, email }
+  userRole.value = role
 }
